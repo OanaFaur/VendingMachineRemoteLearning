@@ -1,0 +1,12 @@
+<VolumeReport>
+  <StartDate>2021-04-06T00:00:00</StartDate>
+  <EndDate>2021-04-10T00:00:00</EndDate>
+  <Sales>
+    <Name>Fanta</Name>
+    <Quantity>4</Quantity>
+  </Sales>
+  <Sales>
+    <Name>Sprite</Name>
+    <Quantity>1</Quantity>
+  </Sales>
+</VolumeReport>

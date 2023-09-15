@@ -1,0 +1,38 @@
+[
+  {
+    "Date": "2021-04-14T18:05:52.746+03:00",
+    "Name": "Sprite",
+    "Price": 3.5,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-14T18:09:33.532+03:00",
+    "Name": "Cheetos",
+    "Price": 2.5,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-14T18:14:59.674+03:00",
+    "Name": "Cheetos",
+    "Price": 2.5,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-14T19:56:47.203+03:00",
+    "Name": "Cheetos",
+    "Price": 2.5,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-14T20:02:21.448+03:00",
+    "Name": "Cheetos",
+    "Price": 2.5,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-15T13:17:54.081+03:00",
+    "Name": "Coca Cola",
+    "Price": 3.5,
+    "PaymentMethod": "Cash"
+  }
+]

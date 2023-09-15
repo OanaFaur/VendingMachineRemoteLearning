@@ -1,0 +1,22 @@
+<Products>
+  <Product>
+    <name>Coca Cola</name>
+    <Quantity>13</Quantity>
+  </Product>
+  <Product>
+    <name>Fanta</name>
+    <Quantity>15</Quantity>
+  </Product>
+  <Product>
+    <name>Sprite</name>
+    <Quantity>15</Quantity>
+  </Product>
+  <Product>
+    <name>Orbit</name>
+    <Quantity>15</Quantity>
+  </Product>
+  <Product>
+    <name>Cheetos</name>
+    <Quantity>2</Quantity>
+  </Product>
+</Products>

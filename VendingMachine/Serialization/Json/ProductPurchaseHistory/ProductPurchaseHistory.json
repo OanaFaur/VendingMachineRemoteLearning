@@ -1,0 +1,107 @@
+[
+  {
+    "Date": "2021-04-06T17:09:48.0036965+03:00",
+    "Name": "Coca Cola",
+    "Price": 3.5,
+    "Quantity": 0,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-07T17:12:13.6104798+03:00",
+    "Name": "Coca Cola",
+    "Price": 3.5,
+    "Quantity": 0,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-07T17:12:24.0511526+03:00",
+    "Name": "Coca Cola",
+    "Price": 3.5,
+    "Quantity": 0,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-08T17:14:54.8917829+03:00",
+    "Name": "Coca Cola",
+    "Price": 3.5,
+    "Quantity": 0,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-07T17:33:46.8752+03:00",
+    "Name": "Orbit",
+    "Price": 1.5,
+    "Quantity": 0,
+    "PaymentMethod": "Card"
+  },
+  {
+    "Date": "2021-04-09T17:47:54.6576717+03:00",
+    "Name": "Cheetos",
+    "Price": 2.5,
+    "Quantity": 0,
+    "PaymentMethod": "Card"
+  },
+  {
+    "Date": "2021-04-09T18:14:29.647785+03:00",
+    "Name": "Orbit",
+    "Price": 1.5,
+    "Quantity": 0,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-09T23:20:35.949661+03:00",
+    "Name": "Fanta",
+    "Price": 3.5,
+    "Quantity": 0,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-09T23:22:06.1164213+03:00",
+    "Name": "Fanta",
+    "Price": 3.5,
+    "Quantity": 0,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-10T11:48:00.9169269+03:00",
+    "Name": "Sprite",
+    "Price": 3.5,
+    "Quantity": 1,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-10T11:48:30.9406643+03:00",
+    "Name": "Sprite",
+    "Price": 3.5,
+    "Quantity": 1,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-10T11:49:58.6275456+03:00",
+    "Name": "Sprite",
+    "Price": 3.5,
+    "Quantity": 1,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-10T14:19:25.9947297+03:00",
+    "Name": "Sprite",
+    "Price": 3.5,
+    "Quantity": 1,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-10T14:19:45.1062937+03:00",
+    "Name": "Fanta",
+    "Price": 3.5,
+    "Quantity": 1,
+    "PaymentMethod": "Cash"
+  },
+  {
+    "Date": "2021-04-13T16:02:07.5901988+03:00",
+    "Name": "Cheetos",
+    "Price": 2.5,
+    "Quantity": 1,
+    "PaymentMethod": "Cash"
+  }
+]

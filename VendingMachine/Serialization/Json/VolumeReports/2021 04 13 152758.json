@@ -1,0 +1,22 @@
+{
+  "startTime": "2021-04-06T00:00:00",
+  "endTime": "2021-04-10T00:00:00",
+  "Products": [
+    {
+      "Name": "Coca Cola",
+      "Quantity": 4
+    },
+    {
+      "Name": "Orbit",
+      "Quantity": 2
+    },
+    {
+      "Name": "Cheetos",
+      "Quantity": 1
+    },
+    {
+      "Name": "Fanta",
+      "Quantity": 2
+    }
+  ]
+}

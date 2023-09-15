@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <AssemblyName>iQuest.VendingMachine</AssemblyName>
+        <RootNamespace>iQuest.VendingMachine</RootNamespace>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <Company>iQuest</Company>
+        <Authors>Remote Learning</Authors>
+        <Product>Vending Machine</Product>
+        <Description>This is an exercise used in the Remote Learning program from iQuest.</Description>
+        <Copyright>Copyright © iQuest 2017-2020</Copyright>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Autofac" Version="6.1.0" />
+      <PackageReference Include="LiteDb" Version="5.0.10" />
+      <PackageReference Include="log4net" Version="2.0.12" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.5">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+      
+      <PackageReference Include="NLog.WindowsEventLog" Version="4.7.9" />
+      <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+      <PackageReference Include="System.Diagnostics.EventLog" Version="5.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      
+      <Folder Include="Serialization\Json\" />
+      <Folder Include="Serialization\Xml\" />
+    </ItemGroup>
+
+</Project>

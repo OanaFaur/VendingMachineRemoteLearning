@@ -1,0 +1,32 @@
+<SalesReport>
+  <Sales>
+    <Date>2021-04-06T21:36:20.7909656+03:00</Date>
+    <Name>Fanta</Name>
+    <Price>3.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+  <Sales>
+    <Date>2021-04-06T22:48:16.9277994+03:00</Date>
+    <Name>Fanta</Name>
+    <Price>3.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+  <Sales>
+    <Date>2021-04-07T22:48:45.6244995+03:00</Date>
+    <Name>Sprite</Name>
+    <Price>3.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+  <Sales>
+    <Date>2021-04-07T23:20:35.9931378+03:00</Date>
+    <Name>Fanta</Name>
+    <Price>3.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+  <Sales>
+    <Date>2021-04-07T23:22:06.1623696+03:00</Date>
+    <Name>Fanta</Name>
+    <Price>3.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+</SalesReport>

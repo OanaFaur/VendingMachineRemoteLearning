@@ -1,0 +1,44 @@
+<SalesReport>
+  <Sales>
+    <Date>2021-04-14T18:05:52.746+03:00</Date>
+    <Name>Sprite</Name>
+    <Price>3.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+  <Sales>
+    <Date>2021-04-14T18:09:33.532+03:00</Date>
+    <Name>Cheetos</Name>
+    <Price>2.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+  <Sales>
+    <Date>2021-04-14T18:14:59.674+03:00</Date>
+    <Name>Cheetos</Name>
+    <Price>2.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+  <Sales>
+    <Date>2021-04-14T19:56:47.203+03:00</Date>
+    <Name>Cheetos</Name>
+    <Price>2.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+  <Sales>
+    <Date>2021-04-14T20:02:21.448+03:00</Date>
+    <Name>Cheetos</Name>
+    <Price>2.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+  <Sales>
+    <Date>2021-04-15T13:17:54.081+03:00</Date>
+    <Name>Coca Cola</Name>
+    <Price>3.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+  <Sales>
+    <Date>2021-04-26T12:58:45.694+03:00</Date>
+    <Name>Coca Cola</Name>
+    <Price>3.5</Price>
+    <PaymentMethod>Cash</PaymentMethod>
+  </Sales>
+</SalesReport>
